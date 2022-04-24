@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home:Scaffold(
         appBar: AppBar(title: const Text("My First App"),backgroundColor: Colors.pink),
-        body: Image.asset(""),
+        body: Image.asset("images/first.png"),
       )
     );
   }
